@@ -33,7 +33,11 @@ Your submission should also include:
 
 - Some sort of tests as part of submission
 
-Your application should be easy to set up and run, and must use platform native code (No PhoneGap, Xamarin, etc.) Feel free to use any 3rd party libraries that you want to use. If you decide to use a 3rd party library, please include rationale for use in the README.
+Your application should be easy to set up and run, and must use Objective-C or Java (No PhoneGap, Xamarin, etc.)
+Feel free to use any 3rd party libraries that you want to use. If you decide to use a 3rd party library, please 
+include rationale for use in the README.
+
+While we appreciate some iOS developers will prefer Swift, our existing applications are written in Objective-C and we need to understand your facility with that language.
 
 ## Evaluation
 
