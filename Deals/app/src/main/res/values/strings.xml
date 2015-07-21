@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dealz</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">What\'ya lookin for?</string>
+    <string name="under_ten_title">"UNDER TEN"</string>
+
+
+</resources>
