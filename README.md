@@ -1,3 +1,13 @@
+##3rd party libraries
+1.Picasso for image requests.
+2.Jackson for JSON to Model transformation.
+
+#Presenter
+Used MVP pattern to create separate requests from activity lifecycle.  It also helps separate business logic from the activity.
+
+#Notes
+I decided to have some fun with the task.  There is an "Under 10" slider (Which is more complex than it seems due to peeking and first element alignment) on the "home" page which shows some of the deals under 10 dollars.  The "Under 10" goes away upon search. I included a more dynamic layout which includes different layout styles of deals. These things are intended to keep users interested and engaged. I probably spent more than 4-5 hours...but I was having fun with it.
+
 To better assess a candidate's development skills, we would like to provide the following challenge. We ask that you not spend more than 4-5 hours on this project.
 
 ##Submission Instructions
